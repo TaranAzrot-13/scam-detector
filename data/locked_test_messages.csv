@@ -1,0 +1,101 @@
+text,label,category,difficulty
+[PostOffice] We couldn't deliver your item. Reschedule and pay the $2.99 redelivery charge here: http://repost-delivery.example/ref,1,delivery fee,easy
+"Hello, your courier tried twice to reach you. Your parcel will be returned tomorrow unless you confirm your address: http://courier-notice.example",1,delivery fee,easy
+Your order of 2 items is delayed at our depot. Re-confirm payment details to avoid cancellation: http://orders-help.example/id,1,delivery fee,easy
+Customs duty of $14.20 is due on your incoming shipment. Settle it online to avoid storage fees: http://customs-settle.example,1,delivery fee,easy
+"Bank notice: a new payee was added to your account. If this wasn't you, secure your account immediately: http://secure-bank-check.example",1,bank impersonation,easy
+Your card ending 9921 was used for an overseas purchase of $389. Call our fraud team now on 0345 555 0123.,1,bank impersonation,easy
+We've limited your account after several failed login attempts. Restore full access: http://restore-access.example,1,bank impersonation,easy
+"FRAUD DEPT: Your savings are at risk. Move your money to a safe account. We will guide you, call 020 555 0147.",1,bank impersonation,hard
+Your mobile account has been selected for a $250 loyalty reward. Redeem within 2 hours: http://loyalty-reward.example,1,prize,easy
+Lucky day! You've won a luxury cruise. Reply with your email to receive your voucher.,1,prize,easy
+You have 1 unclaimed prize waiting. Confirm your delivery details here: http://prize-hub.example,1,prize,easy
+"Dear winner, your number was drawn in our online lottery. To release your 25,000 pay the $60 processing fee.",1,prize,easy
+Tax authority: you have a refund pending. Enter your card details to receive the funds: http://tax-return-help.example,1,government,easy
+Unpaid parking fine of $35. Pay by tomorrow to avoid court action: http://parking-fines.example,1,government,easy
+Your vehicle registration is due. Renew now to avoid penalties: http://vehicle-renew.example,1,government,easy
+Social benefits update: verify your identity to keep receiving payments: http://benefits-verify.example,1,government,easy
+"hey sorry wrong person lol. you look friendly tho, what do you do?",1,wrong number / romance,hard
+Hi there! I'm travelling and my card got declined. Can you cover me a little? I'll pay you back tonight 🙏,1,wrong number / romance,hard
+"Hello love, I'm an engineer on an offshore project. I'd love to get to know you better. Can we chat on WhatsApp?",1,wrong number / romance,hard
+"Mum I lost my phone, this is my friend's. Please send money to this number for a new one, don't tell Dad.",1,family emergency,hard
+"Hi grandma, I'm in a bit of trouble with the police and need bail money. Please keep this secret.",1,family emergency,hard
+"We are hiring social media likers. Earn $15 per task, paid daily. Contact our agent to get started.",1,job offer,easy
+"Great news, you passed the screening for a remote assistant position. Salary $4,500 a month. Add our recruiter to begin.",1,job offer,hard
+You've earned $180 today. Deposit $50 to unlock the next level and withdraw.,1,job offer,hard
+"Invest $200 today and receive $2,000 next week. Our AI trading bot never loses.",1,investment,easy
+Exclusive crypto airdrop for early users. Connect your wallet to claim 5 free tokens: http://airdrop-claim.example,1,investment,easy
+URGENT: Your exchange account is under review. Verify your recovery phrase to prevent a freeze.,1,investment,easy
+"Quick favour please, I'm tied up with the board. Can you grab some prepaid vouchers and send me the codes? Will refund.",1,boss impersonation,hard
+"This is your CEO. I need you to wire $9,800 to a supplier today. Keep it confidential, details by email.",1,boss impersonation,hard
+"Your annual membership will auto-renew for $149 today. To cancel and receive a refund, call 1-800-555-0166.",1,subscription,easy
+Payment declined for your video subscription. Update your card to keep watching: http://stream-billing.example,1,subscription,easy
+Warning: 4 viruses detected on your phone. Clean it now: http://phone-clean.example,1,subscription,easy
+Your cloud storage is full and your photos will be deleted in 24h. Get 2TB free here: http://cloud-space.example,1,account verification,easy
+"Sign-in attempt from a new location. If this wasn't you, reset your password: http://reset-pass.example",1,account verification,hard
+For your safety we need to verify your account. Reply with the code sent to your phone.,1,account verification,hard
+Your account password expires today. Keep your current password: http://keep-password.example,1,account verification,easy
+Gas supplier: your account is in arrears. A disconnection fee will apply. Pay now: http://gas-arrears.example,1,utilities,easy
+You overpaid your water bill. Get your $87 refund: http://water-refund.example,1,utilities,easy
+"Get a $3,000 personal loan today, bad credit accepted, no fees upfront. Reply APPLY.",1,loan,easy
+Your health plan benefits are about to lapse. Confirm your member details here: http://plan-confirm.example,1,insurance,easy
+"Hello, I represent a bank in London. A dormant account holds funds belonging to a person with your surname. Contact me confidentially.",1,advance fee,easy
+Reminder: you have a missed voicemail. Listen here: http://voicemail-play.example,1,premium / link,hard
+"Hi, I'm interested in the bike you're selling. I'll send a courier, can you share your phone number and bank details so I can pay you?",1,marketplace,hard
+Free gift: claim your new smartphone today by completing a short form: http://free-phone.example,1,prize,easy
+Final warning from the court office: respond today or a warrant will be issued: http://court-notice.example,1,government,easy
+Your friend sent you a private video. See it here: http://private-clip.example,1,link bait,hard
+Is this you in this photo?? http://photo-check.example,1,link bait,hard
+"Congrats, you've been shortlisted for a scholarship of $5,000. Pay the $30 application fee to continue.",1,advance fee,hard
+Your parcel cannot be delivered because your phone number is not verified. Verify here: http://number-verify.example,1,delivery fee,easy
+"You've been charged $499 for a premium service. If this was an error, use the link to dispute: http://dispute-charge.example",1,subscription,easy
+Dinner at mine on Friday? I'm making lasagna.,0,chat,easy
+"Just left the office, should be home in 20.",0,chat,easy
+Can you remind me what time the film starts?,0,chat,easy
+"Thanks again for the lift this morning, really appreciate it.",0,chat,easy
+"Mum's birthday is on the 3rd, shall we split a gift?",0,chat,easy
+"I'll pick the kids up from school today, don't worry.",0,chat,easy
+Ugh the train is cancelled again. Going to be late for the meeting.,0,chat,easy
+Congrats on the new job!! Drinks on me this weekend.,0,chat,easy
+Remember to water the plants while we're away.,0,chat,easy
+"Sent you the document, let me know if anything's unclear.",0,work,easy
+Can you cover my shift on Saturday? I'll cover yours next week.,0,chat,hard
+"My phone died, so I'm texting from Jake's. Can you call me back on this number?",0,chat,hard
+"Hey, this is Anna's brother. She asked me to tell you she'll be late.",0,chat,hard
+Wrong number maybe? I was trying to reach Tom from the football club.,0,chat,hard
+Your appointment with Dr. Lee is tomorrow at 11:30. Reply Y to confirm or N to cancel.,0,legit service,hard
+Your haircut is booked for Saturday at 2pm. Reply 2 to reschedule.,0,legit service,hard
+Your car is ready for collection. We're open until 5:30 today.,0,legit service,easy
+Vet reminder: Max is due for his annual vaccination. Call us to book.,0,legit service,easy
+Your bank: a payment of $120.00 to City Landlord was made today from the account ending 2210. Not you? Call the number on your card.,0,legit alert,hard
+"Your login code is 305918. It expires in 5 minutes. If you didn't request it, ignore this message.",0,legit alert,hard
+"Use 628147 as your security code. Never share it with anyone, including our staff.",0,legit alert,hard
+Your food order is on the way. Estimated arrival 7:45 PM.,0,legit service,easy
+Your parcel has been left with a neighbour at number 14.,0,legit service,hard
+Delivery update: your order will arrive between 12:00 and 15:00 today.,0,legit service,hard
+Your subscription will renew on Dec 1 for $9.99. You can manage it in settings.,0,legit alert,hard
+Your refund of $24.00 has been issued and should arrive in 3 to 5 business days.,0,legit alert,hard
+Welcome! Your account has been created. Download the app to get started.,0,legit service,hard
+"Your password was changed successfully. If this wasn't you, contact support through the app.",0,legit alert,hard
+"A new device signed in to your account. If this was you, no action is needed.",0,legit alert,hard
+Your tax account statement is ready to view in your online portal.,0,legit alert,hard
+Parking reminder: your ticket expires at 4:30 PM.,0,legit service,easy
+"The electric company will be working on your street tomorrow, power may be off from 10am to 12pm.",0,legit service,easy
+Your gym class on Wednesday at 6pm is full. You've been added to the waitlist.,0,legit service,easy
+Your passport application has been received. We'll update you by email.,0,legit service,hard
+Flight reminder: check-in opens 24 hours before departure. Have a safe trip!,0,legit service,easy
+Your hotel check-in time is from 3pm. We look forward to seeing you.,0,legit service,easy
+Your order is ready for pickup at the front desk. Please bring this message.,0,legit service,easy
+The school trip permission slip is due Friday. Please return it signed.,0,legit service,easy
+Your daily step goal was reached. Great job today!,0,legit service,easy
+"Open house this Saturday 10 to 2 at the community centre, everyone welcome.",0,chat,easy
+50% off all winter coats this weekend only. Reply STOP to unsubscribe.,0,legit marketing,hard
+"Your survey response was recorded, thank you for the feedback.",0,legit marketing,easy
+Your loan application was received. A member of our team will contact you within 2 business days.,0,legit service,hard
+You're invited to Emily's housewarming on the 12th! RSVP when you can.,0,chat,easy
+Heads up: scammers are sending fake delivery texts. We never ask for payment by text.,0,legit alert,hard
+Your insurance policy renews on January 5. Your documents are in your online account.,0,legit service,hard
+Please bring your ID and the signed form to the appointment.,0,legit service,easy
+Could you transfer me the $20 for the tickets? Bank details are the same as last time.,0,chat,hard
+Your colleague shared a file with you. Open the team drive to view it.,0,work,hard
+You have a new voicemail from Mum (0:24). Open your voicemail app to listen.,0,legit service,hard

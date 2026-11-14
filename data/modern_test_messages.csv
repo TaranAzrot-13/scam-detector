@@ -1,0 +1,101 @@
+text,label,category,difficulty
+Your package is on hold due to an unpaid $1.99 shipping fee. Pay now to schedule delivery: http://redeliver-pkg.example/pay,1,delivery fee,easy
+DELIVERY NOTICE: We attempted to deliver your parcel today but the address was incomplete. Confirm your address within 24h: http://parcel-confirm.example,1,delivery fee,easy
+Your order #88231 is delayed. Verify your details to release it: http://track-order.example/verify,1,delivery fee,easy
+Unclaimed package held at customs. Pay the $75 clearance fee today to release it.,1,delivery fee,easy
+Security alert: unusual sign-in detected on your account. Verify your identity now or your account will be suspended: http://secure-login.example,1,bank impersonation,easy
+Your debit card has been temporarily blocked. Call 0800 555 0199 immediately to unlock it.,1,bank impersonation,easy
+"Dear customer, a payment of $450 to 'Crypto Exchange' was authorised from your account. If this wasn't you, visit http://cancel-payment.example",1,bank impersonation,easy
+Your online banking access will expire today. Re-activate here to avoid losing access: http://bank-reactivate.example,1,bank impersonation,easy
+Congratulations! You've been selected to receive a $500 gift card. Claim your reward before it expires: http://claim-gift.example,1,prize,easy
+You are our weekly winner! Reply YES to claim your free phone. Offer ends tonight.,1,prize,easy
+"WINNER: your number won 10,000 in our mobile draw. To collect, send your name and bank details to this number.",1,prize,easy
+Win a $1000 shopping voucher by completing this 30-second survey: http://survey-win.example,1,prize,easy
+"Tax Refund Notice: you are eligible for a refund of $1,284. Submit your details to receive it: http://refund-portal.example",1,government,easy
+Final notice: you have an unpaid road toll of $6.40. Pay within 24 hours to avoid a $50 late fee: http://toll-pay.example,1,government,easy
+Your driving licence is about to be suspended. Settle the outstanding fine today: http://fine-pay.example,1,government,easy
+Police notice: a case has been filed against you. Contact the officer immediately to avoid arrest: 555-0176.,1,government,easy
+"Hi, is this Daniel? I think I have the wrong number but you seem nice 😊 Where are you from?",1,wrong number / romance,hard
+"Hey it's Emma, we met on the app. My phone is broken so I'm texting from a new number. Can you help me with something small?",1,wrong number / romance,hard
+"Hi Mum, I dropped my phone in water and this is my new number. Can you send me some money? I'll explain later",1,family emergency,hard
+"Dad it's me, I'm in trouble and need $800 urgently. Please don't call, just transfer to this account.",1,family emergency,hard
+Remote job offer: earn $300 a day working 1 hour online. No experience needed. Message us to start.,1,job offer,easy
+"We reviewed your CV and you've been selected for a part-time role paying $2,000 a week. Reply with your full name and ID to proceed.",1,job offer,hard
+Your task payment is ready. Complete 3 more tasks to unlock your withdrawal.,1,job offer,hard
+"Congrats on your new job! HR here: please buy your equipment from our vendor, we'll refund you after your first week.",1,job offer,hard
+"Double your Bitcoin in 48 hours. Guaranteed returns. Limited spots, message now.",1,investment,easy
+Our trading expert has a hot tip that will make you 40% this week. Join our private group: http://hot-tips-group.example,1,investment,easy
+Your crypto wallet has been flagged. Validate your seed phrase to restore access.,1,investment,easy
+"I'm in a meeting and can't talk. I need you to buy 5 gift cards for a client, I'll reimburse you. Reply when you're free.",1,boss impersonation,hard
+"Hi, it's your manager. Quick favour, are you at your desk? Need you to handle something urgent discreetly.",1,boss impersonation,hard
+"Your subscription has been renewed for $89.99. If you didn't authorise this, call 1-800-555-0142 to cancel and get a refund.",1,subscription,easy
+Your streaming account payment failed. Update your billing details to avoid cancellation: http://billing-update.example,1,subscription,easy
+Your antivirus protection expired today. Renew now for $0.99 to remove 3 detected threats.,1,subscription,easy
+Your email storage is 98% full. Upgrade now to avoid losing messages: http://mailbox-upgrade.example,1,account verification,easy
+Someone tried to log in to your social account from a new device. Confirm it's you here: http://account-verify.example,1,account verification,easy
+Your verification code is 482913. Send this code to us to confirm your identity for the refund.,1,account verification,hard
+We noticed activity on your delivery app account. Share the 6-digit code we just sent to cancel the order.,1,account verification,hard
+Last chance: your account will be deleted in 2 hours unless you confirm your password.,1,account verification,easy
+Your Apple ID has been locked for security reasons. Unlock it here: http://id-unlock.example,1,account verification,easy
+Please confirm you are the account holder: reply with the last 4 digits of your social security number.,1,account verification,easy
+Your electricity bill is overdue. Service will be disconnected today unless you pay: http://pay-bill.example,1,utilities,easy
+Your energy provider owes you a rebate of $120. Claim it here: http://rebate-claim.example,1,utilities,easy
+"Pre-approved loan of $5,000 with no credit check. Reply YES, funds in 10 minutes.",1,loan,easy
+Your student loan is eligible for forgiveness. Apply now before the deadline: http://loan-relief.example,1,loan,easy
+Your health insurance card needs renewal. Confirm your details: http://insure-renew.example,1,insurance,easy
+"Dear friend, I am a lawyer representing a late client with an inheritance of $4.5 million that shares your surname. Reply for details.",1,advance fee,easy
+Free entry to win a holiday! Text WIN to 80082 now. Standard charges apply.,1,prize,easy
+Missed call from an unknown number. Call back 0906 555 0188 to hear your voicemail (premium rate).,1,premium rate,hard
+"Hi, I saw your listing. Is it still available? I'll pay extra and send a courier, just give me your email so I can send the payment link.",1,marketplace,hard
+Exclusive: you've been pre-selected for a free home security system. Reply Y to confirm your address.,1,prize,hard
+Your parcel from overseas needs a small customs payment of $2.50 before we can deliver it: http://customs-pay.example,1,delivery fee,easy
+Are we still on for dinner at 7? I'll book a table.,0,chat,easy
+"Running 10 minutes late, start without me!",0,chat,easy
+Can you send me the notes from yesterday's lecture?,0,chat,easy
+Happy birthday! Hope you have an amazing day 🎉,0,chat,easy
+Don't forget to bring the charger when you come over.,0,chat,easy
+Just landed. Will text you when I'm at the hotel.,0,chat,easy
+"Mum says dinner's at 6 on Sunday, can you pick up dessert?",0,chat,easy
+Did you see the game last night? Unreal ending.,0,chat,easy
+"Thanks for helping me move on Saturday, I owe you a pizza.",0,chat,easy
+Meeting moved to 3pm in room 2B. See you there.,0,chat,easy
+Can you call me when you're free? Nothing urgent.,0,chat,hard
+"I'll be home around 8, should I pick up milk?",0,chat,easy
+"Sorry I missed your call, I was in a meeting. What's up?",0,chat,easy
+"The plumber is coming tomorrow between 9 and 11, can you be home?",0,chat,easy
+"Good luck with your exam today, you've got this!",0,chat,easy
+Reminder: team stand-up is at 9:30 tomorrow.,0,work,easy
+"Photos from the trip are in the shared album, take a look.",0,chat,easy
+Could you send me your address? I want to mail you a card.,0,chat,hard
+"I'm going to the market, do you need anything?",0,chat,easy
+"Haha that's hilarious, send me the link to the video.",0,chat,hard
+"Hi Mum, I'm at Grandma's, my phone's at 5% so I'll text later. Love you!",0,chat,hard
+"Hi Sam, this is a reminder of your dental appointment on Tuesday at 3:15 PM. Reply C to confirm or call us to reschedule.",0,legit service,hard
+Your table for 4 at 8:00 PM tonight is confirmed. Reply CANCEL to cancel.,0,legit service,hard
+Your prescription is ready for collection at the pharmacy. Open until 6pm today.,0,legit service,easy
+Your car service is booked for Friday at 9am. See you then!,0,legit service,easy
+Your verification code is 482913. It expires in 10 minutes. Don't share this code with anyone.,0,legit alert,hard
+Your one-time passcode is 771204. We will never ask you for this code.,0,legit alert,hard
+Your driver Priya is arriving in 2 minutes in a white Toyota.,0,legit service,easy
+Your order has shipped and will arrive Thursday. Track it in the app anytime.,0,legit service,hard
+Your package was delivered to the front door at 2:14 PM.,0,legit service,hard
+Thanks for your payment of $54.20. Your balance is now $0.00.,0,legit alert,hard
+"Alert: a purchase of $23.50 at Corner Cafe was made with your card ending 4417. Reply YES if this was you, NO if not.",0,legit alert,hard
+Your monthly statement is now available in the app. Log in to view it.,0,legit alert,hard
+Flight 204 is now boarding at gate 14. Have a great trip!,0,legit service,easy
+Library notice: the book you reserved is ready for pickup until Friday.,0,legit service,easy
+Please arrive 10 minutes early for your appointment and bring your insurance card.,0,legit service,easy
+Your internet will be down for maintenance tomorrow from 1am to 3am. Sorry for the inconvenience.,0,legit service,easy
+Welcome to the gym! Your membership starts today. Your access code is on your card.,0,legit service,hard
+Your interview is scheduled for Monday at 10:00. Please bring a copy of your CV. Reply to confirm.,0,legit service,hard
+Your reservation at the Grand Hotel is confirmed for Nov 20-22. We look forward to welcoming you.,0,legit service,easy
+School update: classes are closed tomorrow due to snow. Stay safe!,0,legit service,easy
+Your electricity usage this month was 12% lower than last month. Nice work!,0,legit alert,hard
+Thanks for shopping with us! Rate your experience in 30 seconds: reply 1 to 5.,0,legit marketing,hard
+Weekend sale: 20% off all items at the bookshop. Show this message in store. Reply STOP to opt out.,0,legit marketing,hard
+Your parcel will arrive tomorrow between 10:00 and 14:00. You can reschedule anytime in the app.,0,legit service,hard
+Your annual check-up is due. Call the clinic to book a time that suits you.,0,legit service,easy
+Rent is due on the 1st. The transfer details are unchanged.,0,legit service,hard
+Your phone bill for October is $38. It will be taken automatically on the 5th.,0,legit alert,hard
+Your tax return was received and is being processed. No action is needed.,0,legit alert,hard
+"Your bank will never ask for your PIN. If you get a suspicious call, hang up and call us on the number on the back of your card.",0,legit alert,hard
